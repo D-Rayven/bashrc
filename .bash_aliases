@@ -27,6 +27,9 @@ alias lha='ls -lhutra'
 
 # Navigate aliases
 alias forgecat='cd ~/src/forge/cat_amania.forge'
+alias ..='cd ..'
+alias ...='cd ../..'
+alias ....='cd ../../..'
 
 # Git branch bash completion
 if [ -f ~/.git-completion.bash ]; then
